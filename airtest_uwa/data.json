@@ -1,0 +1,10 @@
+{
+    "start": 1605757310.5295537,
+    "script": "C:\\Users\\ck\\PycharmProjects\\uwa_stf_backend\\airtest_uwa\\test_blackjack.air",
+    "tests": {
+        "46HDU19A14005397": {
+            "status": 0,
+            "path": "C:\\Users\\ck\\PycharmProjects\\uwa_stf_backend\\airtest_uwa\\test_blackjack.air\\log\\46HDU19A14005397\\log.html"
+        }
+    }
+}
